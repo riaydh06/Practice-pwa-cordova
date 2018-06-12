@@ -1,6 +1,11 @@
 .DS_Store
 node_modules/
 dist/
+!/plugins
+!/plugins/android.json
+!/plugins/fetch.json
+plugins/*
+platforms/*
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
